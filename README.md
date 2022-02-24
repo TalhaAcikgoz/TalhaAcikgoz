@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TalhaAcikgoz
-- 👀 I’m interested in games, C .
+- 👀 I’m interested in games and C .
 - 🌱 I’m currently learning C .
 - 📫 How to reach me mail:tacikgoz58@gmail.com discord:Memati Baş#2640
 
