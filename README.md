@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TalhaAcikgoz
-- 👀 I’m interested in games, phyton, photoshop.
-- 🌱 I’m currently learning phyton, photoshop.
+- 👀 I’m interested in games, C .
+- 🌱 I’m currently learning C .
 - 📫 How to reach me mail:tacikgoz58@gmail.com discord:Memati Baş#2640
 
 <!---
