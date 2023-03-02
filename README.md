@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TalhaAcikgoz
-- 👀 I’m interested in C .
-- 🌱 I’m currently learning C .
+- 👀 I’m interested in C/C++ .
+- 🌱 I’m currently learning C/C++ .
 - 📫 How to reach me mail:tacikgoz58@gmail.com
 
 <!---
