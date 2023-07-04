@@ -21,7 +21,7 @@
 
 |Project|Score|
 | :-	|	:-:	|
-| Libft <img width=150>| [![tacikgoz's 42 Libft Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/2473148)](https://github.com/JaeSeoKim/badge42)|
+| Libft <img width=145>| [![tacikgoz's 42 Libft Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/2473148)](https://github.com/JaeSeoKim/badge42)|
 | GetNextLine | [![tacikgoz's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/2518805)](https://github.com/JaeSeoKim/badge42)|
 | ft_Printf | [![tacikgoz's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/2529568)](https://github.com/JaeSeoKim/badge42)|
 | Born2Beroot | [![tacikgoz's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/2562170)](https://github.com/JaeSeoKim/badge42)|
@@ -36,7 +36,7 @@
 
 |Project|Score|
 | :-	|	:-:	|
-| Philosophers <img width=150>| [![tacikgoz's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/2806093)](https://github.com/JaeSeoKim/badge42)|
+| Philosophers <img width=145>| [![tacikgoz's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/2806093)](https://github.com/JaeSeoKim/badge42)|
 | Minishell | [![tacikgoz's 42 minishell Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/2806094)](https://github.com/JaeSeoKim/badge42)|
 | NetPractice | [![tacikgoz's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/2927513)](https://github.com/JaeSeoKim/badge42)|
 | Exam Rank 04 | [![tacikgoz's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/3010969)](https://github.com/JaeSeoKim/badge42)|
