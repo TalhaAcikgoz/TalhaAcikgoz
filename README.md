@@ -4,8 +4,8 @@
 - 📫 How to reach me mail:tacikgoz58@gmail.com
 
 <table width="80%" align="center">
-  <img src="https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/stats?cursusId=21&coalitionId=359">
-  <img src="https://github-readme-stats.vercel.app/api?username=TalhaAcikgoz&show_icons=true" />
+  <img align="Left" src="https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/stats?cursusId=21&coalitionId=359">
+  <img align="Right" src="https://github-readme-stats.vercel.app/api?username=TalhaAcikgoz&show_icons=true" />
 
 </table>
 
