@@ -17,7 +17,7 @@
 
 <table width="80%" align="center">
   <tr style="display:flex; justify-content:space-around; padding:0;">
-  <td style="padding:0; margin:0;">
+  <td width="45%" style="padding:0; margin:0;">
 
 |Project|Score|
 | :-	|	:-:	|
@@ -32,7 +32,7 @@
 | Exam Rank 03 | [![tacikgoz's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/2810284)](https://github.com/JaeSeoKim/badge42)|
 
   </td>
-  <td style="padding:0; margin:0;"> 
+  <td width="45%" style="padding:0; margin:0;"> 
 
 |Project|Score|
 | :-	|	:-:	|
