@@ -25,14 +25,14 @@
 | Minitalk | [![tacikgoz's 42 minitalk Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/2587493)](https://github.com/JaeSeoKim/badge42)|
 | Exam Rank 02 | [![tacikgoz's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/2635462)](https://github.com/JaeSeoKim/badge42)|
 | Push_Swap | [![tacikgoz's 42 push_swap Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/2570354)](https://github.com/JaeSeoKim/badge42)|
+| Exam Rank 03 | [![tacikgoz's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/2810284)](https://github.com/JaeSeoKim/badge42)|
 
   </td>
   <td style="padding:0; margin:0;"> 
 
 |Project|Score|
 | :-	|	:-:	|
-| Exam Rank 03 <img width=150>| [![tacikgoz's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/2810284)](https://github.com/JaeSeoKim/badge42)|
-| Philosophers | [![tacikgoz's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/2806093)](https://github.com/JaeSeoKim/badge42)|
+| Philosophers <img width=150>| [![tacikgoz's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/2806093)](https://github.com/JaeSeoKim/badge42)|
 | Minishell | [![tacikgoz's 42 minishell Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/2806094)](https://github.com/JaeSeoKim/badge42)|
 | NetPractice | [![tacikgoz's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/2927513)](https://github.com/JaeSeoKim/badge42)|
 | Exam Rank 04 | [![tacikgoz's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/3010969)](https://github.com/JaeSeoKim/badge42)|
