@@ -54,7 +54,7 @@
 
 </p>
 
-<a href="https://discordapp.com/users/gangbi333">
+<a href="https://discordapp.com/users/472679399284801537">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 <!---
