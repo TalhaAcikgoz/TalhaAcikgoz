@@ -7,7 +7,7 @@
 
 ![tacikgoz's 42 stats](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/stats?cursusId=21&coalitionId=359)
 
-<table width="90%" align="center">
+<table width="80%" align="center">
   <tr style="display:flex; justify-content:space-around; padding:0;">
   <td style="padding:0; margin:0;">
 
