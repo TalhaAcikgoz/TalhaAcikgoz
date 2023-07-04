@@ -54,6 +54,9 @@
 
 </p>
 
+<a href="https://discordapp.com/">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 <!---
 TalhaAcikgoz/TalhaAcikgoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
