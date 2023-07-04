@@ -5,7 +5,7 @@
 
 <table width="80%" align="center">
   <img align="Left" src="https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/stats?cursusId=21&coalitionId=359"/>
-  <img align="Left" src="https://github-readme-stats.vercel.app/api?username=TalhaAcikgoz&show_icons=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TalhaAcikgoz&show_icons=true"/>
 
 </table>
 
