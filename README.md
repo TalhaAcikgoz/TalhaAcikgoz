@@ -9,7 +9,8 @@
 
 |Project|Score|
 | :-	|	:-:	|
-| Libft <img width=150>| [![tacikgoz's 42 Libft Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/2473148)](https://github.com/JaeSeoKim/badge42)
+| Libft <img width=150>| [![tacikgoz's 42 Libft Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/2473148)](https://github.com/JaeSeoKim/badge42)|
+| GetNextLine | [![tacikgoz's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/project/2518805)](https://github.com/JaeSeoKim/badge42)|
 
 <!---
 TalhaAcikgoz/TalhaAcikgoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
