@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C/C++ .
 - 📫 How to reach me mail:tacikgoz58@gmail.com
 
-<table width="80%">
+<table width="80%" width="center">
 
   <img width="50%" align="Left" src="https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/stats?cursusId=21&coalitionId=359"/><img width="50%" align="Right" src="https://github-readme-stats.vercel.app/api?username=TalhaAcikgoz&show_icons=true"/>
 
