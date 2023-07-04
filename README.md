@@ -5,6 +5,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=TalhaAcikgoz&show_icons=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaAcikgoz" />
 
+(https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/stats?cursusId=21&coalitionId=359)
+
 <!---
 TalhaAcikgoz/TalhaAcikgoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
