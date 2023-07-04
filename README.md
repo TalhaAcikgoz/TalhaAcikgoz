@@ -4,11 +4,11 @@
 - 📫 How to reach me mail:tacikgoz58@gmail.com
 
 <table align="center">
-  <td>
-    <img width="50%" src="https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/stats?cursusId=21&coalitionId=359"/>
+  <td width="50%">
+    <img src="https://badge42.vercel.app/api/v2/cljo25iv5000608mtgxrnol1t/stats?cursusId=21&coalitionId=359"/>
   </td>
-  <td>
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=TalhaAcikgoz&show_icons=true"/>
+  <td width="50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=TalhaAcikgoz&show_icons=true"/>
   </td>
 
 </table>
