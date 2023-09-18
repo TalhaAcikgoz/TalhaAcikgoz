@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TalhaAcikgoz
 - 👀 I’m interested in C/C++ .
 - 🌱 I’m currently learning C/C++ .
-- 📫 How to reach me mail:tacikgoz58@gmail.com
+- 📫 How to reach me mail: tacikgoz58@gmail.com
 
 <table align="center">
   <td width="50%">
