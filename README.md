@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TalhaAcikgoz
-- 👀 I’m interested in C/C++ .
-- 🌱 I’m currently learning C/C++ .
+- 👀 I’m interested in Backend Development.
+- 🌱 I’m currently learning Backend and Frontend Development.
 - 📫 How to reach me mail: tacikgoz58@gmail.com
 
 <table align="center">
